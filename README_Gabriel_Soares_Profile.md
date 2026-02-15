@@ -17,7 +17,7 @@ Backend-focused developer with strong emphasis on clean architecture,<br>domain 
       <br clear="both"/>
     </td>
 
-    <td valign="top"><strong>Frontend</strong><br><br>
+   <td valign="top"><strong>Frontend</strong><br><br>
       <img align="left" alt="Angular" title="Angular" width="30px" style="padding-right: 10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
       <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;"
@@ -39,7 +39,7 @@ Backend-focused developer with strong emphasis on clean architecture,<br>domain 
       <br clear="both"/>
     </td>
 
-    <td valign="top"><strong>Tools</strong><br><br>
+  <td valign="top"><strong>Tools</strong><br><br>
       <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"/>
       <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;"
