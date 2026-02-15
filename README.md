@@ -24,14 +24,6 @@ Backend-focused developer with strong emphasis on clean architecture,<br>domain 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left"
-    alt="Java" 
-    title="Java" 
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
@@ -48,12 +40,12 @@ Backend-focused developer with strong emphasis on clean architecture,<br>domain 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
-    alt="Docker"
-    title="Docker" 
-    width="30px" 
+    align="left"
+    alt="Java" 
+    title="Java" 
+    width="30px"
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
@@ -78,6 +70,14 @@ Backend-focused developer with strong emphasis on clean architecture,<br>domain 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker"
+    title="Docker" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
 />
 <img 
     align="left" 
@@ -127,7 +127,7 @@ Backend-focused developer with strong emphasis on clean architecture,<br>domain 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" 
 />
-
+<br>
 <br>
 
 # 📊 GitHub Stats:
