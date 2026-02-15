@@ -6,54 +6,83 @@ Backend-focused developer with strong emphasis on clean architecture,<br>domain 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soaresgabrielvinicius@gmail.com) 
 
 <table>
-<tr>
-  <td valign="top"><strong>Backend</strong><br><br>
-    <img 
-        align="left" 
-        alt="Java" 
-        title="Java" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-      />
-    <img 
-        align="left" 
-        alt="Spring" 
-        title="Spring" 
-        width="30px" 
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-      />
-    <img 
-        align="left" 
-        alt="NodeJS" 
-        title="NodeJS" 
-        width="30px" 
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-      />
-  <td valign="top"><strong>Frontend</strong>
-      <img align="left" alt="Angular" title="Angular" width="30px" style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
-      <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-      <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-      <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-      <br clear="both"/>
-    </td>
-  </tr>
-
   <tr>
+    <td valign="top"><strong>Backend</strong><br><br>
+        <img 
+          align="left" 
+          alt="Java" 
+          title="Java" 
+          width="30px" 
+          style="padding-right: 10px;" 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+        />
+        <img 
+          align="left" 
+          alt="Spring" 
+          title="Spring" 
+          width="30px" 
+          style="padding-right: 10px;"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+        />
+        <img 
+          align="left" 
+          alt="NodeJS" 
+          title="NodeJS" 
+          width="30px" 
+          style="padding-right: 10px;"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+        />
+    <td valign="top"><strong>Frontend</strong><br><br>
+        <img 
+          align="left" 
+          alt="Angular" 
+          title="Angular" 
+          width="30px" 
+          style="padding-right: 10px;"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+        />
+        <img 
+          align="left" 
+          alt="TypeScript" 
+          title="TypeScript" 
+          width="30px" 
+          style="padding-right: 10px;"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+        />
+        <img 
+          align="left" 
+          alt="HTML" 
+          title="HTML" 
+          width="30px" 
+          style="padding-right: 10px;"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+        />
+        <img 
+          align="left" 
+          alt="CSS" 
+          title="CSS" 
+          width="30px" 
+          style="padding-right: 10px;"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+        />
+      </td>
     <td valign="top"><strong>Database</strong><br><br>
-      
-      <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-      
-      <img align="left" alt="MariaDB" title="MariaDB" width="30px" style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg"/>
-      <br clear="both"/>
+        <img 
+          align="left" 
+          alt="MySQL" 
+          title="MySQL" 
+          width="30px" 
+          style="padding-right: 10px;"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+        />
+        <img 
+          align="left" 
+          alt="MariaDB" 
+          title="MariaDB" 
+          width="30px" 
+          style="padding-right: 10px;"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg"
+        />
     </td>
 
   <td valign="top"><strong>Tools</strong><br><br>
