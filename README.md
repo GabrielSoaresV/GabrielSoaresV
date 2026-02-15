@@ -128,6 +128,8 @@ Backend-focused developer with strong emphasis on clean architecture,<br>domain 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" 
 />
 
+<br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GabrielSoaresV&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=GabrielSoaresV&theme=transparent&hide_border=true)<br/>
