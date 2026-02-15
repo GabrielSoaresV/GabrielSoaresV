@@ -32,7 +32,7 @@ Backend-focused developer with strong emphasis on clean architecture,<br>domain 
           style="padding-right: 10px;"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
         />
-    <p></p>
+    </td>
     <td valign="top"><strong>Frontend</strong><br><br>
         <img 
           align="left" 
