@@ -62,6 +62,10 @@ Backend-focused developer with strong emphasis on clean architecture,<br>domain 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GabrielSoaresV&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
