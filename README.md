@@ -134,6 +134,9 @@ Backend-focused developer with strong emphasis on clean architecture,<br>domain 
 ![](https://github-readme-stats.vercel.app/api?username=GabrielSoaresV&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=GabrielSoaresV&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSoaresV&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![email](https://img.shields.io/badge/Gmail-green??style=flat-square&logo=gmail&logoColor=white&labelColor=3A3B3C&color=white)](mailto:soaresgabrielvinicius@gmail.com)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielSoaresV&theme=github_dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GabrielSoaresV&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
