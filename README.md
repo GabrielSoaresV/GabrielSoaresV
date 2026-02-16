@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="./README.pt-BR.md">
+    <img src="https://img.shields.io/badge/Português-009C3B?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+  </a>
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/English-1E90FF?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+  </a>
+</p>
+
 # 💫 About Me:
 Backend-focused developer with strong emphasis on clean architecture,<br>domain modeling, and scalable system design. Experienced in building<br>RESTful APIs, structuring domain-driven applications, and designing<br>maintainable backend services.<br><br>Currently expanding frontend capabilities to deliver complete full-stack<br>solutions.<br>
 
