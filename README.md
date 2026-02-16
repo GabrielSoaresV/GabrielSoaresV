@@ -133,12 +133,12 @@ Backend-focused developer with strong emphasis on clean architecture,<br>domain 
 <br>
 <br>
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=GabrielSoaresV&show_icons=true&theme=transparent&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSoaresV&layout=compact&theme=transparent&hide_border=true)
-
+# 📊 GitHub Stats: 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielSoaresV&theme=github_dark)<br> 
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=GabrielSoaresV&show_icons=true&theme=onedark)<br> 
+![](https://github-readme-stats.vercel.app/api?username=GabrielSoaresV&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/> 
+![](https://nirzak-streak-stats.vercel.app/?user=GabrielSoaresV&theme=transparent&hide_border=true)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSoaresV&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GabrielSoaresV&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
