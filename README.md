@@ -2,8 +2,8 @@
 Backend-focused developer with strong emphasis on clean architecture,<br>domain modeling, and scalable system design. Experienced in building<br>RESTful APIs, structuring domain-driven applications, and designing<br>maintainable backend services.<br><br>Currently expanding frontend capabilities to deliver complete full-stack<br>solutions.<br>
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soaresgabrielvinicius@gmail.com) 
+## 🌐 Contacts:
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=soaresgabrielvinicius@gmail.com&logoColor=white)
 
 # 💻 Tech Stack:
 
