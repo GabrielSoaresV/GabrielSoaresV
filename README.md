@@ -52,7 +52,7 @@ Backend-focused developer with strong emphasis on clean architecture,<br>domain 
 />
 <img 
     align="left" 
-    alt="Spring"
+    alt="Spring-Boot"
     title="Spring" 
     width="30px" 
     style="padding-right: 10px;" 
