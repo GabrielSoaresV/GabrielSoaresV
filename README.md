@@ -2,7 +2,7 @@
   <a href="./README.pt-BR.md">
     <img src="https://img.shields.io/badge/Português-009C3B?style=for-the-badge&logo=googletranslate&logoColor=white"/>
   </a>
-  <a href="./README.en.md">
+  <a href="./README-ENGLISH.md">
     <img src="https://img.shields.io/badge/English-1E90FF?style=for-the-badge&logo=googletranslate&logoColor=white"/>
   </a>
 </p>
