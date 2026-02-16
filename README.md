@@ -1,7 +1,3 @@
-![](https://github-readme-stats-fast.vercel.app/api?username=GabrielSoaresV&show_icons=true&theme=transparent&hide_border=true&hide=issues,contribs)
-
-
-
 # 💫 About Me:
 Backend-focused developer with strong emphasis on clean architecture,<br>domain modeling, and scalable system design. Experienced in building<br>RESTful APIs, structuring domain-driven applications, and designing<br>maintainable backend services.<br><br>Currently expanding frontend capabilities to deliver complete full-stack<br>solutions.<br>
 
@@ -139,7 +135,8 @@ Backend-focused developer with strong emphasis on clean architecture,<br>domain 
 
 # 📊 GitHub Stats: 
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielSoaresV&show_icons=true&theme=transparent&hide_border=true)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielSoaresV&show_icons=true&theme=transparent&hide_border=true)<br>
+![](https://github-readme-stats-fast.vercel.app/api?username=GabrielSoaresV&show_icons=true&theme=transparent&hide_border=true&hide=issues,contribs)<br>
 
 
 ![](https://streak-stats.demolab.com?user=GabrielSoaresV&theme=transparent&hide_border=true)
