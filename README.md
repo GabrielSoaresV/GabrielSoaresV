@@ -3,7 +3,7 @@ Backend-focused developer with strong emphasis on clean architecture,<br>domain 
 
 
 ## 🌐 Contacts:
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=soaresgabrielvinicius@gmail.com&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)
 
 # 💻 Tech Stack:
 
