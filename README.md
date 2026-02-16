@@ -4,11 +4,13 @@
   </a>
 </p>
 
-![](https://github-readme-stats-fast-ivory.vercel.app/api?username=GabrielSoaresV&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0b0b0d&title_color=6bb39b&text_color=f7f4e8&icon_color=85e6c0)
+![](https://gabriel-github-readme-stats-navy.vercel.app/api?username=GabrielSoaresV&show_icons=true&hide_border=true&include_all_commits=true&theme=gabriel)
 
-![](https://streak-stats.demolab.com?user=GabrielSoaresV&hide_border=true&background=0b0b0d&stroke=6bb39b&ring=85e6c0&fire=85e6c0&currStreakLabel=6bb39b&sideLabels=f7f4e8&currStreakNum=f7f4e8&sideNums=f7f4e8)
+![](https://github-readme-stats-fast-ivory.vercel.app/api/streak?username=GabrielSoaresV&hide_border=true&bg_color=0b0b0d&ring=85e6c0&fire=85e6c0&currStreakNum=f7f4e8&currStreakLabel=6bb39b&sideNums=f7f4e8&sideLabels=daf3ea&dates=6bb39b)
 
-![](https://github-readme-stats-fast-ivory.vercel.app/api/top-langs/?username=GabrielSoaresV&layout=compact&hide_border=true&bg_color=0b0b0d&title_color=6bb39b&text_color=f7f4e8)
+![](https://gabriel-github-readme-stats-navy.vercel.app/api/top-langs/?username=GabrielSoaresV&layout=compact&hide_border=true&theme=default)
+
+![](https://gabriel-github-readme-stats-navy.vercel.app/api?username=GabrielSoaresV&hide=contribs,prs&theme=default)
 
 # 💫 About Me:
 Backend-focused developer with strong emphasis on clean architecture,<br>domain modeling, and scalable system design. Experienced in building<br>RESTful APIs, structuring domain-driven applications, and designing<br>maintainable backend services.<br><br>Currently expanding frontend capabilities to deliver complete full-stack<br>solutions.<br>
@@ -146,13 +148,6 @@ Backend-focused developer with strong emphasis on clean architecture,<br>domain 
 <br>
 
 # 📊 GitHub Stats: 
-
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielSoaresV&show_icons=true&theme=transparent&hide_border=true)<br>
-![](https://github-readme-stats-fast.vercel.app/api?username=GabrielSoaresV&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github)
-<br>
-
-![](https://streak-stats.demolab.com?user=GabrielSoaresV&theme=transparent&hide_border=true)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GabrielSoaresV&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
