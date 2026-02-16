@@ -1,4 +1,5 @@
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielSoaresV&show_icons=true&theme=transparent&hide_border=true)
+![](https://github-readme-stats-fast.vercel.app/api?username=GabrielSoaresV&show_icons=true&theme=transparent&hide_border=true&hide=issues,contribs)
+
 
 
 # 💫 About Me:
