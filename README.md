@@ -135,6 +135,9 @@ Backend-focused developer with strong emphasis on clean architecture,<br>domain 
 
 # 📊 GitHub Stats: 
 
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielSoaresV&show_icons=true&theme=transparent&hide_border=true)
+
+
 ![](https://streak-stats.demolab.com?user=GabrielSoaresV&theme=transparent&hide_border=true)
 
 
