@@ -4,6 +4,16 @@
   </a>
 </p>
 
+![](https://github-readme-stats-fast-ivory.vercel.app/api?username=GabrielSoaresV&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=default&bg_color=0b0b0d&title_color=6bb39b&text_color=f7f4e8&icon_color=85e6c0)
+
+![Bram GitHub stats](https://github-readme-stats-fast-ivory.vercel.app/api?username=gabrielsoaresv&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)
+
+![](https://github-readme-stats-fast-ivory.vercel.app/api?username=GabrielSoaresV&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github)
+
+![](https://github-readme-stats-fast-ivory.vercel.app/api/top-langs/?username=GabrielSoaresV&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5)
+
+![Anurag's GitHub stats](https://github-readme-stats-fast-ivory.vercel.app/api?username=GabrielSoaresV&hide=contribs,prs)
+
 # 💫 About Me:
 Backend-focused developer with strong emphasis on clean architecture,<br>domain modeling, and scalable system design. Experienced in building<br>RESTful APIs, structuring domain-driven applications, and designing<br>maintainable backend services.<br><br>Currently expanding frontend capabilities to deliver complete full-stack<br>solutions.<br>
 
