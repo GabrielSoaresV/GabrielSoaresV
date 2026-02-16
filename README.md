@@ -135,7 +135,8 @@ Backend-focused developer with strong emphasis on clean architecture,<br>domain 
 
 # 📊 GitHub Stats: 
 
-![](https://github-readme-stats.vercel.app/api?username=GabrielSoaresV&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+![](https://streak-stats.demolab.com?user=GabrielSoaresV&theme=transparent&hide_border=true)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GabrielSoaresV&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
