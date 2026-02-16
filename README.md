@@ -149,5 +149,6 @@ Backend-focused developer with strong emphasis on clean architecture,<br>domain 
 ---
 [![](https://visitcount.itsvg.in/api?id=GabrielSoaresV&icon=3&color=4)](https://visitcount.itsvg.in)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSoaresV&show_icons=true&theme=radical)<br>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSoaresV&show_icons=true&theme=radical)<br>](https://github-readme-stats.vercel.app/api?username=GabrielSoaresV&show_icons=true&theme=radical&cache_bust=1
+)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
