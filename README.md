@@ -4,17 +4,9 @@
   </a>
 </p>
 
-![](https://gabriel-github-readme-stats-gabrielsoaresvs-projects.vercel.app/api?username=GabrielSoaresV&v=123456)
+![](https://github-readme-stats-gabriel-soares.vercel.app/api?username=GabrielSoaresV&)
 
-![](https://gabriel-github-readme-stats-gabrielsoaresvs-projects.vercel.app/api?username=GabrielSoaresV&show_icons=true&hide_border=true&include_all_commits=true&theme=gabriel)
-gabriel-github-readme-stats-gabrielsoaresvs-projects.vercel.app
-![](https://gabriel-github-readme-stats-gabrielsoaresvs-projects.vercel.app/api?username=GabrielSoaresV&show_icons=true&hide_border=true&include_all_commits=true&theme=gabriel&v=2)
-
-![](https://github-readme-stats-fast-ivory.vercel.app/api/streak?username=GabrielSoaresV&hide_border=true&bg_color=0b0b0d&ring=85e6c0&fire=85e6c0&currStreakNum=f7f4e8&currStreakLabel=6bb39b&sideNums=f7f4e8&sideLabels=daf3ea&dates=6bb39b)
-
-![](https://gabriel-github-readme-stats-navy.vercel.app/api/top-langs/?username=GabrielSoaresV&layout=compact&hide_border=true&theme=default)
-
-![](https://gabriel-github-readme-stats-navy.vercel.app/api?username=GabrielSoaresV&hide=contribs,prs&theme=default)
+![](https://github-readme-stats-gabriel-soares.vercel.app/api/top-langs/?username=GabrielSoaresV&layout=compact&hide_border=true&theme=default)
 
 # 💫 About Me:
 Backend-focused developer with strong emphasis on clean architecture,<br>domain modeling, and scalable system design. Experienced in building<br>RESTful APIs, structuring domain-driven applications, and designing<br>maintainable backend services.<br><br>Currently expanding frontend capabilities to deliver complete full-stack<br>solutions.<br>
