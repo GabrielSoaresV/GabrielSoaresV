@@ -6,7 +6,7 @@
 
 ![](https://github-readme-stats-gabriel-soares.vercel.app/api?username=GabrielSoaresV&)
 
-![](https://github-readme-stats-gabriel-soares.vercel.app/api/top-langs/?username=GabrielSoaresV&layout=compact&hide_border=true&theme=default)
+![](https://github-readme-stats-gabriel-soares.vercel.app/api/top-langs/?username=GabrielSoaresV&layout=compact&hide_&border_color=6bb39b&theme=default)
 
 # 💫 About Me:
 Backend-focused developer with strong emphasis on clean architecture,<br>domain modeling, and scalable system design. Experienced in building<br>RESTful APIs, structuring domain-driven applications, and designing<br>maintainable backend services.<br><br>Currently expanding frontend capabilities to deliver complete full-stack<br>solutions.<br>
