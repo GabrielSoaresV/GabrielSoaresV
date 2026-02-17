@@ -4,9 +4,9 @@
   </a>
 </p>
 
-![](./profile-summary-card-output/ocean_dark/0-profile-details.svg)
-![](./profile-summary-card-output/ocean_dark/1-repos-per-language.svg)
-![](./profile-summary-card-output/ocean_dark/3-stats.svg)
+![](./profile-summary-card-output/codeSTACKr/0-profile-details.svg)
+![](./profile-summary-card-output/codeSTACKr/1-repos-per-language.svg)
+![](./profile-summary-card-output/codeSTACKr/3-stats.svg)
 
 # 💫 About Me:
 Backend-focused developer with strong emphasis on clean architecture,<br>domain modeling, and scalable system design. Experienced in building<br>RESTful APIs, structuring domain-driven applications, and designing<br>maintainable backend services.<br><br>Currently expanding frontend capabilities to deliver complete full-stack<br>solutions.<br>
