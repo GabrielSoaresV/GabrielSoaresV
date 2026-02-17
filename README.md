@@ -4,6 +4,8 @@
   </a>
 </p>
 
+[[![GitHub Streak](https://streak-stats.demolab.com?user=GabrielSoaresV&background=0b0b0d&border=6bb39b&stroke=6bb39b&ring=85e6c0&fire=85e6c0&currStreakNum=f7f4e8&sideNums=f7f4e8&currStreakLabel=6bb39b&sideLabels=daf3ea&dates=6bb39bexcludeDaysLabel=6bb39b&hide_border=false)](https://git.io/streak-stats)]
+
 ![](https://github-readme-stats-gabriel-soares.vercel.app/api?username=GabrielSoaresV&)
 
 ![](https://github-readme-stats-gabriel-soares.vercel.app/api/top-langs/?username=GabrielSoaresV&layout=compact&hide_&border_color=6bb39b&theme=default)
