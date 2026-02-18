@@ -14,41 +14,41 @@ evoluindo técnica e estrategicamente.
 
 ------------------------------------------------------------------------
 
-# 🚀 Roadmap 2026
+# Meu Roadmap 2026
 
-## 📚 Aprendizado Técnico
+## Aprendizado Técnico
 
-### 🧠 Inteligência Artificial
+### Inteligência Artificial
 
 -   **Status:** Planejamento\
 -   **Prioridade:** Média/Alta\
 -   **Prazo:** Médio prazo
 
-### 🏗 Estudo Avançado de Arquitetura (DDD, CQRS, padrões escaláveis)
+### Estudo Avançado de Arquitetura (DDD, CQRS, padrões escaláveis)
 
 -   **Status:** Em execução\
 -   **Prioridade:** Alta\
 -   **Prazo:** Curto prazo (em andamento)
 
-### 💻 Evolução em .NET e C
+### Evolução em .NET e C
 
 -   **Status:** Em execução\
 -   **Prioridade:** Baixa/Média\
 -   **Prazo:** Médio prazo
 
-### 🗄 Aprofundamento em Bancos NoSQL
+### Aprofundamento em Bancos NoSQL
 
 -   **Status:** Planejamento\
 -   **Prioridade:** Baixa\
 -   **Prazo:** Médio a longo prazo
 
-### ☕ Certificação Java
+### Certificação Java
 
 -   **Status:** Planejado (estrutura inicial definida)\
 -   **Prioridade:** Baixa\
 -   **Prazo:** Longo prazo
 
-### 🔌 Exploração de Novos Modelos de APIs
+### Exploração de Novos Modelos de APIs
 
 -   **Status:** Planejamento\
 -   **Prioridade:** Média\
@@ -56,9 +56,9 @@ evoluindo técnica e estrategicamente.
 
 ------------------------------------------------------------------------
 
-## 🛠 Projetos
+## Projetos
 
-### 🏠 Assistente Virtual Residencial (Open Source)
+### Assistente Virtual Residencial (Open Source)
 
 -   **Status:** Planejado / Congelado\
 -   **Prioridade:** Baixa\
@@ -67,31 +67,31 @@ evoluindo técnica e estrategicamente.
     padronização para se tornar realmente compartilhável e de fácil
     instalação.
 
-### 🔗 Biblioteca de APIs Pessoais
+### Biblioteca de APIs Pessoais
 
 -   **Status:** Em desenvolvimento\
 -   **Prioridade:** Alta\
 -   **Prazo:** Médio prazo (finalização das principais integrações)
 
-### 🧩 Biblioteca de Templates
+### Biblioteca de Templates
 
 -   **Status:** Planejamento\
 -   **Prioridade:** Baixa\
 -   **Prazo:** Médio a longo prazo
 
-### ♿ Projeto de Acessibilidade (Iniciação Científica)
+### Projeto de Acessibilidade (Iniciação Científica)
 
 -   **Status:** Em desenvolvimento\
 -   **Prioridade:** Média/Alta\
 -   **Prazo:** Médio a longo prazo
 
-### 🧠 Memória Persistente para IAs via API
+### Memória Persistente para IAs via API
 
 -   **Status:** Não planejado / Ideação inicial\
 -   **Prioridade:** Muito baixa\
 -   **Prazo:** Longo prazo
 
-### 💼 SaaS para Micro Negócios
+### SaaS para Micro Negócios
 
 -   **Status:** Em desenvolvimento\
 -   **Prioridade:** Média\
@@ -99,7 +99,7 @@ evoluindo técnica e estrategicamente.
 
 ------------------------------------------------------------------------
 
-# 🌍 Contribuições Open Source
+# Contribuições Open Source
 
 ## Projeto Auri
 
@@ -111,7 +111,7 @@ evoluindo técnica e estrategicamente.
     apresentada em eventos acadêmicos e tecnológicos\
 -   **Repositório:** \[Adicionar link quando público\]
 
-## (Futuro) Portal da Transparência
+## (Em andamento) Portal da Transparência
 
 -   **Status:** Em desenvolvimento (ainda não público)\
 -   **Participação:** Contribuição na criação de componentes e estrutura
@@ -121,7 +121,7 @@ evoluindo técnica e estrategicamente.
 
 ------------------------------------------------------------------------
 
-# 📫 Contato
+# Contato
 
 -   LinkedIn: \[Adicionar link\]
 -   Email: \[Adicionar email profissional\]

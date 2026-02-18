@@ -8,15 +8,17 @@
 ![](./profile-summary-card-output/codeSTACKr/1-repos-per-language.svg)
 ![](./profile-summary-card-output/codeSTACKr/3-stats.svg)
 
-# 💫 About Me:
-Backend-focused developer with strong emphasis on clean architecture,<br>domain modeling, and scalable system design. Experienced in building<br>RESTful APIs, structuring domain-driven applications, and designing<br>maintainable backend services.<br><br>Currently expanding frontend capabilities to deliver complete full-stack<br>solutions.<br>
+# 💫 Sobre mim:
+Olá, desenvolvedores, recrutadores, entusiastas e estudantes de
+tecnologia!\
+Sou Gabriel, desenvolvedor Java Backend.
 
+Acredito que a tecnologia deve simplificar a vida, liberando tempo para
+o que realmente importa. Por isso, otimizo processos complexos em ONGs, escolas/faculdades e organizações de apoio social, transformando fluxos manuais e burocráticos em sistemas organizados e escaláveis.
 
-#### 🌐 Contacts:
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:soaresgabrielvinicius@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5561996299351)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/5561974026592)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/soaresgabrielvinicius)
+Estou sempre em busca de novos desafios e aprendizados para continuar
+evoluindo técnica e estrategicamente.
+
 
 # 💻 Tech Stack:
 
@@ -152,4 +154,9 @@ Backend-focused developer with strong emphasis on clean architecture,<br>domain 
 ### 🔝 Top Contributed Repo
 
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+#### 🌐 Contacts:
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:soaresgabrielvinicius@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5561996299351)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/5561974026592)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/soaresgabrielvinicius)

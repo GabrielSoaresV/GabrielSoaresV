@@ -5,7 +5,17 @@
 </p>
 
 # 💫 About Me:
-Backend-focused developer with strong emphasis on clean architecture,<br>domain modeling, and scalable system design. Experienced in building<br>RESTful APIs, structuring domain-driven applications, and designing<br>maintainable backend services.<br><br>Currently expanding frontend capabilities to deliver complete full-stack<br>solutions.<br>
+Olá, desenvolvedores, recrutadores, entusiastas e estudantes de
+tecnologia!\
+Sou Gabriel, desenvolvedor Java Backend.
+
+Acredito que a tecnologia deve simplificar a vida, liberando tempo para
+o que realmente importa.\
+Por isso, otimizo processos complexos em ONGs e escolas, transformando
+fluxos manuais e burocráticos em sistemas organizados e escaláveis.
+
+Estou sempre em busca de novos desafios e aprendizados para continuar
+evoluindo técnica e estrategicamente.
 
 
 #### 🌐 Contacts:
