@@ -8,7 +8,7 @@
 ![](./profile-summary-card-output/codeSTACKr/1-repos-per-language.svg)
 ![](./profile-summary-card-output/codeSTACKr/3-stats.svg)
 
-# 💫 Sobre mim:
+# Sobre mim:
 Olá, desenvolvedores, recrutadores, entusiastas e estudantes de
 tecnologia!\
 Sou Gabriel, desenvolvedor Java Backend.
@@ -20,7 +20,7 @@ Estou sempre em busca de novos desafios e aprendizados para continuar
 evoluindo técnica e estrategicamente.
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 <img 
     align="left" 
@@ -130,7 +130,8 @@ evoluindo técnica e estrategicamente.
     align="left" 
     alt="Postman"
     title="Postman" 
-    width="30px" 
+    width="30px"
+    padding="10px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
@@ -145,17 +146,17 @@ evoluindo técnica e estrategicamente.
 <br>
 <br>
 
-# 📊 GitHub Stats: 
+# GitHub Stats: 
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 
 ---
 
-#### 🌐 Contacts:
+#### Contatos:
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:soaresgabrielvinicius@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5561996299351)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/5561974026592)
