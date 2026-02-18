@@ -23,21 +23,12 @@ evoluindo técnica e estrategicamente.
 # Tech Stack:
 
 <h3>Backend</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
-
-  <img alt="Java" title="Java" width="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-
-  <img alt="Spring" title="Spring Boot" width="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
-
-  <img alt="NodeJS" title="NodeJS" width="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-
-  <img alt="Swagger" title="Swagger / OpenAPI" width="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"/>
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+</p>
 
 <br>
 <br>
