@@ -22,6 +22,23 @@ evoluindo técnica e estrategicamente.
 
 # Tech Stack:
 
+<h3>Backend</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+
+  <img alt="Java" title="Java" width="32px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+  <img alt="Spring" title="Spring Boot" width="32px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+
+  <img alt="NodeJS" title="NodeJS" width="32px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+
+  <img alt="Swagger" title="Swagger / OpenAPI" width="32px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+
+</div>
+
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
 
   <img alt="HTML" title="HTML" width="30px"
