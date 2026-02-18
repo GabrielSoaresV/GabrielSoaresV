@@ -26,65 +26,16 @@ evoluindo técnica e estrategicamente.
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
 
   <img alt="Java" title="Java" width="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 
   <img alt="Spring" title="Spring Boot" width="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
 
   <img alt="NodeJS" title="NodeJS" width="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 
   <img alt="Swagger" title="Swagger / OpenAPI" width="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
-
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
-
-  <img alt="HTML" title="HTML" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-  <img alt="CSS" title="CSS" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-  <img alt="TypeScript" title="TypeScript" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-
-  <img alt="JavaScript" title="JavaScript" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-  <img alt="Java" title="Java" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-
-  <img alt="Spring" title="Spring" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-
-  <img alt="Angular" title="Angular" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-
-  <img alt="NodeJS" title="NodeJS" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-
-  <img alt="Docker" title="Docker" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
-
-  <img alt="MariaDB" title="MariaDB" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
-
-  <img alt="MySQL" title="MySQL" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
-  <img alt="GitHub" title="GitHub" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-
-  <img alt="GitLab" title="GitLab" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
-
-  <img alt="Postman" title="Postman" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-
-  <img alt="Swagger" title="Swagger" width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"/>
 
 </div>
 
