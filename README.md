@@ -8,6 +8,8 @@
 ![](./profile-summary-card-output/codeSTACKr/1-repos-per-language.svg)
 ![](./profile-summary-card-output/codeSTACKr/3-stats.svg)
 
+---
+
 # Sobre mim:
 Olá, desenvolvedores, recrutadores, entusiastas e estudantes de
 tecnologia!\
@@ -19,8 +21,10 @@ o que realmente importa. Por isso, otimizo processos complexos em ONGs, escolas/
 Estou sempre em busca de novos desafios e aprendizados para continuar
 evoluindo técnica e estrategicamente.
 
+---
 
 # Tech Stack:
+
 
 <h3>Backend</h3>
 <p>
@@ -29,6 +33,7 @@ evoluindo técnica e estrategicamente.
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
+
 
 <h3>Frontend</h3>
 <p>
@@ -39,11 +44,13 @@ evoluindo técnica e estrategicamente.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
+
 <h3>Banco de Dados</h3>
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 </p>
+
 
 <h3>DevOps & Ferramentas</h3>
 <p>
@@ -53,8 +60,7 @@ evoluindo técnica e estrategicamente.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-<br>
-<br>
+---
 
 # GitHub Stats: 
 
